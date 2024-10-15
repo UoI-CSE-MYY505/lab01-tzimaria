@@ -9,7 +9,7 @@ from myy505TesterLib import *
 ################################################################
 # CHANGE THIS TO YOUR MATRIC NUMBER
 ################################################################
-matricNumber = 0
+matricNumber = 4902
 # Modifications/additions to the data labels of the program
 newLabels = {
     "matric" : '.word '+ str(matricNumber)
